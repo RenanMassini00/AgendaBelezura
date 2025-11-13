@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\massini913471\\source\\repos\\AgendaBelezura\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\massini913471\\source\\repos\\AgendaBelezura\\Core\\AppDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Core\\AppDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\massini913471\\source\\repos\\AgendaBelezura\\Core\\Entities\\ConfiguracaoProfissional.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Core\\Entities\\ConfiguracaoProfissional.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\massini913471\\source\\repos\\AgendaBelezura\\Core\\Entities\\Agendamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Core\\Entities\\Agendamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\massini913471\\source\\repos\\AgendaBelezura\\Core\\Entities\\BloqueioAgenda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Core\\Entities\\BloqueioAgenda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\massini913471\\source\\repos\\AgendaBelezura\\Core\\Entities\\HorarioFuncionamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Core\\Entities\\HorarioFuncionamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\massini913471\\source\\repos\\AgendaBelezura\\Core\\Entities\\Servico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Core\\Entities\\Servico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\massini913471\\source\\repos\\AgendaBelezura\\Core\\Entities\\Cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Core\\Entities\\Cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\massini913471\\source\\repos\\AgendaBelezura\\Core\\Entities\\Profissional.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Core\\Entities\\Profissional.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\massini913471\\source\\repos\\AgendaBelezura\\Core\\Entities\\UsuarioPerfil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Core\\Entities\\UsuarioPerfil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\massini913471\\source\\repos\\AgendaBelezura\\Core\\Entities\\Perfil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Core\\Entities\\Perfil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\massini913471\\Source\\Repos\\AgendaBelezura\\Core\\Entities\\Usuario.cs||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Core\\Entities\\Usuario.cs||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HorarioFuncionamento.cs",
+              "DocumentMoniker": "C:\\Users\\massini913471\\source\\repos\\AgendaBelezura\\Core\\Entities\\HorarioFuncionamento.cs",
+              "RelativeDocumentMoniker": "Core\\Entities\\HorarioFuncionamento.cs",
+              "ToolTip": "C:\\Users\\massini913471\\source\\repos\\AgendaBelezura\\Core\\Entities\\HorarioFuncionamento.cs",
+              "RelativeToolTip": "Core\\Entities\\HorarioFuncionamento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T01:14:54.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BloqueioAgenda.cs",
+              "DocumentMoniker": "C:\\Users\\massini913471\\source\\repos\\AgendaBelezura\\Core\\Entities\\BloqueioAgenda.cs",
+              "RelativeDocumentMoniker": "Core\\Entities\\BloqueioAgenda.cs",
+              "ToolTip": "C:\\Users\\massini913471\\source\\repos\\AgendaBelezura\\Core\\Entities\\BloqueioAgenda.cs",
+              "RelativeToolTip": "Core\\Entities\\BloqueioAgenda.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T01:15:15.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Agendamento.cs",
+              "DocumentMoniker": "C:\\Users\\massini913471\\source\\repos\\AgendaBelezura\\Core\\Entities\\Agendamento.cs",
+              "RelativeDocumentMoniker": "Core\\Entities\\Agendamento.cs",
+              "ToolTip": "C:\\Users\\massini913471\\source\\repos\\AgendaBelezura\\Core\\Entities\\Agendamento.cs",
+              "RelativeToolTip": "Core\\Entities\\Agendamento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T01:15:29.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConfiguracaoProfissional.cs",
+              "DocumentMoniker": "C:\\Users\\massini913471\\source\\repos\\AgendaBelezura\\Core\\Entities\\ConfiguracaoProfissional.cs",
+              "RelativeDocumentMoniker": "Core\\Entities\\ConfiguracaoProfissional.cs",
+              "ToolTip": "C:\\Users\\massini913471\\source\\repos\\AgendaBelezura\\Core\\Entities\\ConfiguracaoProfissional.cs",
+              "RelativeToolTip": "Core\\Entities\\ConfiguracaoProfissional.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T01:15:37.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\massini913471\\source\\repos\\AgendaBelezura\\Core\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Core\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\massini913471\\source\\repos\\AgendaBelezura\\Core\\AppDbContext.cs",
+              "RelativeToolTip": "Core\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T01:13:24.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Servico.cs",
+              "DocumentMoniker": "C:\\Users\\massini913471\\source\\repos\\AgendaBelezura\\Core\\Entities\\Servico.cs",
+              "RelativeDocumentMoniker": "Core\\Entities\\Servico.cs",
+              "ToolTip": "C:\\Users\\massini913471\\source\\repos\\AgendaBelezura\\Core\\Entities\\Servico.cs",
+              "RelativeToolTip": "Core\\Entities\\Servico.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T01:14:44.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\massini913471\\source\\repos\\AgendaBelezura\\Core\\Entities\\Cliente.cs",
+              "RelativeDocumentMoniker": "Core\\Entities\\Cliente.cs",
+              "ToolTip": "C:\\Users\\massini913471\\source\\repos\\AgendaBelezura\\Core\\Entities\\Cliente.cs",
+              "RelativeToolTip": "Core\\Entities\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T01:14:36.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Profissional.cs",
+              "DocumentMoniker": "C:\\Users\\massini913471\\source\\repos\\AgendaBelezura\\Core\\Entities\\Profissional.cs",
+              "RelativeDocumentMoniker": "Core\\Entities\\Profissional.cs",
+              "ToolTip": "C:\\Users\\massini913471\\source\\repos\\AgendaBelezura\\Core\\Entities\\Profissional.cs",
+              "RelativeToolTip": "Core\\Entities\\Profissional.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T01:14:27.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UsuarioPerfil.cs",
+              "DocumentMoniker": "C:\\Users\\massini913471\\Source\\Repos\\AgendaBelezura\\Core\\Entities\\UsuarioPerfil.cs",
+              "RelativeDocumentMoniker": "Core\\Entities\\UsuarioPerfil.cs",
+              "ToolTip": "C:\\Users\\massini913471\\Source\\Repos\\AgendaBelezura\\Core\\Entities\\UsuarioPerfil.cs",
+              "RelativeToolTip": "Core\\Entities\\UsuarioPerfil.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T01:14:12.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Perfil.cs",
+              "DocumentMoniker": "C:\\Users\\massini913471\\Source\\Repos\\AgendaBelezura\\Core\\Entities\\Perfil.cs",
+              "RelativeDocumentMoniker": "Core\\Entities\\Perfil.cs",
+              "ToolTip": "C:\\Users\\massini913471\\Source\\Repos\\AgendaBelezura\\Core\\Entities\\Perfil.cs",
+              "RelativeToolTip": "Core\\Entities\\Perfil.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T01:14:03.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\massini913471\\Source\\Repos\\AgendaBelezura\\Core\\Entities\\Usuario.cs",
+              "RelativeDocumentMoniker": "Core\\Entities\\Usuario.cs",
+              "ToolTip": "C:\\Users\\massini913471\\Source\\Repos\\AgendaBelezura\\Core\\Entities\\Usuario.cs",
+              "RelativeToolTip": "Core\\Entities\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T01:13:36.817Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
