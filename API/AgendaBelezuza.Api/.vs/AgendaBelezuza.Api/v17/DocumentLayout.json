@@ -1,0 +1,292 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\massini913471\\source\\repos\\AgendaBelezura\\API\\AgendaBelezuza.Api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{39C56CDE-8F8B-4F9B-82EF-FEF055382CD2}|AgendaBelezuza.Domain\\AgendaBelezuza.Domain.csproj|c:\\users\\massini913471\\source\\repos\\agendabelezura\\api\\agendabelezuza.api\\agendabelezuza.domain\\entities\\agendamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39C56CDE-8F8B-4F9B-82EF-FEF055382CD2}|AgendaBelezuza.Domain\\AgendaBelezuza.Domain.csproj|solutionrelative:agendabelezuza.domain\\entities\\agendamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39C56CDE-8F8B-4F9B-82EF-FEF055382CD2}|AgendaBelezuza.Domain\\AgendaBelezuza.Domain.csproj|c:\\users\\massini913471\\source\\repos\\agendabelezura\\api\\agendabelezuza.api\\agendabelezuza.domain\\entities\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39C56CDE-8F8B-4F9B-82EF-FEF055382CD2}|AgendaBelezuza.Domain\\AgendaBelezuza.Domain.csproj|solutionrelative:agendabelezuza.domain\\entities\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39C56CDE-8F8B-4F9B-82EF-FEF055382CD2}|AgendaBelezuza.Domain\\AgendaBelezuza.Domain.csproj|c:\\users\\massini913471\\source\\repos\\agendabelezura\\api\\agendabelezuza.api\\agendabelezuza.domain\\entities\\usuarioperfil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39C56CDE-8F8B-4F9B-82EF-FEF055382CD2}|AgendaBelezuza.Domain\\AgendaBelezuza.Domain.csproj|solutionrelative:agendabelezuza.domain\\entities\\usuarioperfil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39C56CDE-8F8B-4F9B-82EF-FEF055382CD2}|AgendaBelezuza.Domain\\AgendaBelezuza.Domain.csproj|c:\\users\\massini913471\\source\\repos\\agendabelezura\\api\\agendabelezuza.api\\agendabelezuza.domain\\entities\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39C56CDE-8F8B-4F9B-82EF-FEF055382CD2}|AgendaBelezuza.Domain\\AgendaBelezuza.Domain.csproj|solutionrelative:agendabelezuza.domain\\entities\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39C56CDE-8F8B-4F9B-82EF-FEF055382CD2}|AgendaBelezuza.Domain\\AgendaBelezuza.Domain.csproj|c:\\users\\massini913471\\source\\repos\\agendabelezura\\api\\agendabelezuza.api\\agendabelezuza.domain\\entities\\bloqueioagenda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39C56CDE-8F8B-4F9B-82EF-FEF055382CD2}|AgendaBelezuza.Domain\\AgendaBelezuza.Domain.csproj|solutionrelative:agendabelezuza.domain\\entities\\bloqueioagenda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39C56CDE-8F8B-4F9B-82EF-FEF055382CD2}|AgendaBelezuza.Domain\\AgendaBelezuza.Domain.csproj|c:\\users\\massini913471\\source\\repos\\agendabelezura\\api\\agendabelezuza.api\\agendabelezuza.domain\\entities\\configuracoesprofissional.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39C56CDE-8F8B-4F9B-82EF-FEF055382CD2}|AgendaBelezuza.Domain\\AgendaBelezuza.Domain.csproj|solutionrelative:agendabelezuza.domain\\entities\\configuracoesprofissional.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39C56CDE-8F8B-4F9B-82EF-FEF055382CD2}|AgendaBelezuza.Domain\\AgendaBelezuza.Domain.csproj|c:\\users\\massini913471\\source\\repos\\agendabelezura\\api\\agendabelezuza.api\\agendabelezuza.domain\\entities\\horariofuncionamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39C56CDE-8F8B-4F9B-82EF-FEF055382CD2}|AgendaBelezuza.Domain\\AgendaBelezuza.Domain.csproj|solutionrelative:agendabelezuza.domain\\entities\\horariofuncionamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39C56CDE-8F8B-4F9B-82EF-FEF055382CD2}|AgendaBelezuza.Domain\\AgendaBelezuza.Domain.csproj|c:\\users\\massini913471\\source\\repos\\agendabelezura\\api\\agendabelezuza.api\\agendabelezuza.domain\\enums\\statusagendamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39C56CDE-8F8B-4F9B-82EF-FEF055382CD2}|AgendaBelezuza.Domain\\AgendaBelezuza.Domain.csproj|solutionrelative:agendabelezuza.domain\\enums\\statusagendamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39C56CDE-8F8B-4F9B-82EF-FEF055382CD2}|AgendaBelezuza.Domain\\AgendaBelezuza.Domain.csproj|c:\\users\\massini913471\\source\\repos\\agendabelezura\\api\\agendabelezuza.api\\agendabelezuza.domain\\enums\\tipousuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39C56CDE-8F8B-4F9B-82EF-FEF055382CD2}|AgendaBelezuza.Domain\\AgendaBelezuza.Domain.csproj|solutionrelative:agendabelezuza.domain\\enums\\tipousuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39C56CDE-8F8B-4F9B-82EF-FEF055382CD2}|AgendaBelezuza.Domain\\AgendaBelezuza.Domain.csproj|c:\\users\\massini913471\\source\\repos\\agendabelezura\\api\\agendabelezuza.api\\agendabelezuza.domain\\entities\\profissional.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39C56CDE-8F8B-4F9B-82EF-FEF055382CD2}|AgendaBelezuza.Domain\\AgendaBelezuza.Domain.csproj|solutionrelative:agendabelezuza.domain\\entities\\profissional.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39C56CDE-8F8B-4F9B-82EF-FEF055382CD2}|AgendaBelezuza.Domain\\AgendaBelezuza.Domain.csproj|c:\\users\\massini913471\\source\\repos\\agendabelezura\\api\\agendabelezuza.api\\agendabelezuza.domain\\entities\\servico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39C56CDE-8F8B-4F9B-82EF-FEF055382CD2}|AgendaBelezuza.Domain\\AgendaBelezuza.Domain.csproj|solutionrelative:agendabelezuza.domain\\entities\\servico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39C56CDE-8F8B-4F9B-82EF-FEF055382CD2}|AgendaBelezuza.Domain\\AgendaBelezuza.Domain.csproj|c:\\users\\massini913471\\source\\repos\\agendabelezura\\api\\agendabelezuza.api\\agendabelezuza.domain\\entities\\perfil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39C56CDE-8F8B-4F9B-82EF-FEF055382CD2}|AgendaBelezuza.Domain\\AgendaBelezuza.Domain.csproj|solutionrelative:agendabelezuza.domain\\entities\\perfil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39C56CDE-8F8B-4F9B-82EF-FEF055382CD2}|AgendaBelezuza.Domain\\AgendaBelezuza.Domain.csproj|c:\\users\\massini913471\\source\\repos\\agendabelezura\\api\\agendabelezuza.api\\agendabelezuza.domain\\exceptions\\domainexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39C56CDE-8F8B-4F9B-82EF-FEF055382CD2}|AgendaBelezuza.Domain\\AgendaBelezuza.Domain.csproj|solutionrelative:agendabelezuza.domain\\exceptions\\domainexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C2B1B5D-5512-4D35-97CE-0A40CE835552}|AgendaBelezuza.Infrastructure\\AgendaBelezuza.Infrastructure.csproj|c:\\users\\massini913471\\source\\repos\\agendabelezura\\api\\agendabelezuza.api\\agendabelezuza.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C2B1B5D-5512-4D35-97CE-0A40CE835552}|AgendaBelezuza.Infrastructure\\AgendaBelezuza.Infrastructure.csproj|solutionrelative:agendabelezuza.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B87A1A84-0DD1-4963-97D2-B3B9DBBACEDF}|AgendaBelezuza.Application\\AgendaBelezuza.Application.csproj|c:\\users\\massini913471\\source\\repos\\agendabelezura\\api\\agendabelezuza.api\\agendabelezuza.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B87A1A84-0DD1-4963-97D2-B3B9DBBACEDF}|AgendaBelezuza.Application\\AgendaBelezuza.Application.csproj|solutionrelative:agendabelezuza.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39C56CDE-8F8B-4F9B-82EF-FEF055382CD2}|AgendaBelezuza.Domain\\AgendaBelezuza.Domain.csproj|c:\\users\\massini913471\\source\\repos\\agendabelezura\\api\\agendabelezuza.api\\agendabelezuza.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39C56CDE-8F8B-4F9B-82EF-FEF055382CD2}|AgendaBelezuza.Domain\\AgendaBelezuza.Domain.csproj|solutionrelative:agendabelezuza.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\massini913471\\source\\repos\\AgendaBelezura\\API\\AgendaBelezuza.Api\\AgendaBelezuza.Domain\\Entities\\Cliente.cs",
+              "RelativeDocumentMoniker": "AgendaBelezuza.Domain\\Entities\\Cliente.cs",
+              "ToolTip": "C:\\Users\\massini913471\\source\\repos\\AgendaBelezura\\API\\AgendaBelezuza.Api\\AgendaBelezuza.Domain\\Entities\\Cliente.cs",
+              "RelativeToolTip": "AgendaBelezuza.Domain\\Entities\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T23:15:01.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BloqueioAgenda.cs",
+              "DocumentMoniker": "C:\\Users\\massini913471\\source\\repos\\AgendaBelezura\\API\\AgendaBelezuza.Api\\AgendaBelezuza.Domain\\Entities\\BloqueioAgenda.cs",
+              "RelativeDocumentMoniker": "AgendaBelezuza.Domain\\Entities\\BloqueioAgenda.cs",
+              "ToolTip": "C:\\Users\\massini913471\\source\\repos\\AgendaBelezura\\API\\AgendaBelezuza.Api\\AgendaBelezuza.Domain\\Entities\\BloqueioAgenda.cs",
+              "RelativeToolTip": "AgendaBelezuza.Domain\\Entities\\BloqueioAgenda.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAcwCIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T23:14:26.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ConfiguracoesProfissional.cs",
+              "DocumentMoniker": "C:\\Users\\massini913471\\source\\repos\\AgendaBelezura\\API\\AgendaBelezuza.Api\\AgendaBelezuza.Domain\\Entities\\ConfiguracoesProfissional.cs",
+              "RelativeDocumentMoniker": "AgendaBelezuza.Domain\\Entities\\ConfiguracoesProfissional.cs",
+              "ToolTip": "C:\\Users\\massini913471\\source\\repos\\AgendaBelezura\\API\\AgendaBelezuza.Api\\AgendaBelezuza.Domain\\Entities\\ConfiguracoesProfissional.cs",
+              "RelativeToolTip": "AgendaBelezuza.Domain\\Entities\\ConfiguracoesProfissional.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T23:13:44.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HorarioFuncionamento.cs",
+              "DocumentMoniker": "C:\\Users\\massini913471\\source\\repos\\AgendaBelezura\\API\\AgendaBelezuza.Api\\AgendaBelezuza.Domain\\Entities\\HorarioFuncionamento.cs",
+              "RelativeDocumentMoniker": "AgendaBelezuza.Domain\\Entities\\HorarioFuncionamento.cs",
+              "ToolTip": "C:\\Users\\massini913471\\source\\repos\\AgendaBelezura\\API\\AgendaBelezuza.Api\\AgendaBelezuza.Domain\\Entities\\HorarioFuncionamento.cs",
+              "RelativeToolTip": "AgendaBelezuza.Domain\\Entities\\HorarioFuncionamento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T23:12:57.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UsuarioPerfil.cs",
+              "DocumentMoniker": "C:\\Users\\massini913471\\source\\repos\\AgendaBelezura\\API\\AgendaBelezuza.Api\\AgendaBelezuza.Domain\\Entities\\UsuarioPerfil.cs",
+              "RelativeDocumentMoniker": "AgendaBelezuza.Domain\\Entities\\UsuarioPerfil.cs",
+              "ToolTip": "C:\\Users\\massini913471\\source\\repos\\AgendaBelezura\\API\\AgendaBelezuza.Api\\AgendaBelezuza.Domain\\Entities\\UsuarioPerfil.cs",
+              "RelativeToolTip": "AgendaBelezuza.Domain\\Entities\\UsuarioPerfil.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwBcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T23:11:00.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Agendamento.cs",
+              "DocumentMoniker": "C:\\Users\\massini913471\\source\\repos\\AgendaBelezura\\API\\AgendaBelezuza.Api\\AgendaBelezuza.Domain\\Entities\\Agendamento.cs",
+              "RelativeDocumentMoniker": "AgendaBelezuza.Domain\\Entities\\Agendamento.cs",
+              "ToolTip": "C:\\Users\\massini913471\\source\\repos\\AgendaBelezura\\API\\AgendaBelezuza.Api\\AgendaBelezuza.Domain\\Entities\\Agendamento.cs",
+              "RelativeToolTip": "AgendaBelezuza.Domain\\Entities\\Agendamento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T23:02:17.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Perfil.cs",
+              "DocumentMoniker": "C:\\Users\\massini913471\\source\\repos\\AgendaBelezura\\API\\AgendaBelezuza.Api\\AgendaBelezuza.Domain\\Entities\\Perfil.cs",
+              "RelativeDocumentMoniker": "AgendaBelezuza.Domain\\Entities\\Perfil.cs",
+              "ToolTip": "C:\\Users\\massini913471\\source\\repos\\AgendaBelezura\\API\\AgendaBelezuza.Api\\AgendaBelezuza.Domain\\Entities\\Perfil.cs",
+              "RelativeToolTip": "AgendaBelezuza.Domain\\Entities\\Perfil.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T23:10:20.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\massini913471\\source\\repos\\AgendaBelezura\\API\\AgendaBelezuza.Api\\AgendaBelezuza.Domain\\Entities\\Usuario.cs",
+              "RelativeDocumentMoniker": "AgendaBelezuza.Domain\\Entities\\Usuario.cs",
+              "ToolTip": "C:\\Users\\massini913471\\source\\repos\\AgendaBelezura\\API\\AgendaBelezuza.Api\\AgendaBelezuza.Domain\\Entities\\Usuario.cs",
+              "RelativeToolTip": "AgendaBelezuza.Domain\\Entities\\Usuario.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T23:01:28.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DomainException.cs",
+              "DocumentMoniker": "C:\\Users\\massini913471\\source\\repos\\AgendaBelezura\\API\\AgendaBelezuza.Api\\AgendaBelezuza.Domain\\Exceptions\\DomainException.cs",
+              "RelativeDocumentMoniker": "AgendaBelezuza.Domain\\Exceptions\\DomainException.cs",
+              "ToolTip": "C:\\Users\\massini913471\\source\\repos\\AgendaBelezura\\API\\AgendaBelezuza.Api\\AgendaBelezuza.Domain\\Exceptions\\DomainException.cs",
+              "RelativeToolTip": "AgendaBelezuza.Domain\\Exceptions\\DomainException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T23:03:40.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StatusAgendamento.cs",
+              "DocumentMoniker": "C:\\Users\\massini913471\\source\\repos\\AgendaBelezura\\API\\AgendaBelezuza.Api\\AgendaBelezuza.Domain\\Enums\\StatusAgendamento.cs",
+              "RelativeDocumentMoniker": "AgendaBelezuza.Domain\\Enums\\StatusAgendamento.cs",
+              "ToolTip": "C:\\Users\\massini913471\\source\\repos\\AgendaBelezura\\API\\AgendaBelezuza.Api\\AgendaBelezuza.Domain\\Enums\\StatusAgendamento.cs",
+              "RelativeToolTip": "AgendaBelezuza.Domain\\Enums\\StatusAgendamento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T23:02:58.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TipoUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\massini913471\\source\\repos\\AgendaBelezura\\API\\AgendaBelezuza.Api\\AgendaBelezuza.Domain\\Enums\\TipoUsuario.cs",
+              "RelativeDocumentMoniker": "AgendaBelezuza.Domain\\Enums\\TipoUsuario.cs",
+              "ToolTip": "C:\\Users\\massini913471\\source\\repos\\AgendaBelezura\\API\\AgendaBelezuza.Api\\AgendaBelezuza.Domain\\Enums\\TipoUsuario.cs",
+              "RelativeToolTip": "AgendaBelezuza.Domain\\Enums\\TipoUsuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T23:02:43.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Profissional.cs",
+              "DocumentMoniker": "C:\\Users\\massini913471\\source\\repos\\AgendaBelezura\\API\\AgendaBelezuza.Api\\AgendaBelezuza.Domain\\Entities\\Profissional.cs",
+              "RelativeDocumentMoniker": "AgendaBelezuza.Domain\\Entities\\Profissional.cs",
+              "ToolTip": "C:\\Users\\massini913471\\source\\repos\\AgendaBelezura\\API\\AgendaBelezuza.Api\\AgendaBelezuza.Domain\\Entities\\Profissional.cs",
+              "RelativeToolTip": "AgendaBelezuza.Domain\\Entities\\Profissional.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T23:01:52.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Servico.cs",
+              "DocumentMoniker": "C:\\Users\\massini913471\\source\\repos\\AgendaBelezura\\API\\AgendaBelezuza.Api\\AgendaBelezuza.Domain\\Entities\\Servico.cs",
+              "RelativeDocumentMoniker": "AgendaBelezuza.Domain\\Entities\\Servico.cs",
+              "ToolTip": "C:\\Users\\massini913471\\source\\repos\\AgendaBelezura\\API\\AgendaBelezuza.Api\\AgendaBelezuza.Domain\\Entities\\Servico.cs",
+              "RelativeToolTip": "AgendaBelezuza.Domain\\Entities\\Servico.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T23:02:07.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\massini913471\\source\\repos\\AgendaBelezura\\API\\AgendaBelezuza.Api\\AgendaBelezuza.Infrastructure\\Class1.cs",
+              "RelativeDocumentMoniker": "AgendaBelezuza.Infrastructure\\Class1.cs",
+              "ToolTip": "C:\\Users\\massini913471\\source\\repos\\AgendaBelezura\\API\\AgendaBelezuza.Api\\AgendaBelezuza.Infrastructure\\Class1.cs",
+              "RelativeToolTip": "AgendaBelezuza.Infrastructure\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T22:28:35.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\massini913471\\source\\repos\\AgendaBelezura\\API\\AgendaBelezuza.Api\\AgendaBelezuza.Application\\Class1.cs",
+              "RelativeDocumentMoniker": "AgendaBelezuza.Application\\Class1.cs",
+              "ToolTip": "C:\\Users\\massini913471\\source\\repos\\AgendaBelezura\\API\\AgendaBelezuza.Api\\AgendaBelezuza.Application\\Class1.cs",
+              "RelativeToolTip": "AgendaBelezuza.Application\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T22:28:07.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\massini913471\\source\\repos\\AgendaBelezura\\API\\AgendaBelezuza.Api\\AgendaBelezuza.Domain\\Class1.cs",
+              "RelativeDocumentMoniker": "AgendaBelezuza.Domain\\Class1.cs",
+              "ToolTip": "C:\\Users\\massini913471\\source\\repos\\AgendaBelezura\\API\\AgendaBelezuza.Api\\AgendaBelezuza.Domain\\Class1.cs",
+              "RelativeToolTip": "AgendaBelezuza.Domain\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T22:27:15.973Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
