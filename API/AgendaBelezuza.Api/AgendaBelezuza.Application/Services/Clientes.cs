@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace AgendaBelezuza.Application.DTOs
+namespace AgendaBelezuza.Application.Services
 {
-    internal class Profissionais
+    internal class Clientes
     {
     }
 }
