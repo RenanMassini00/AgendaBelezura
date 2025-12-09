@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace AgendaBelezuza.Application.Services
+namespace AgendaBelezuza.Infrastructure.Data.Configurations
 {
-    internal class Profissionais
+    internal class ConfiguracoesProfissionalConfiguration
     {
     }
 }
