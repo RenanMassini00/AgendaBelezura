@@ -1,12 +1,21 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using AgendaBelezuza.Domain.Entities;
+using Microsoft.EntityFrameworkCore;
 
 namespace AgendaBelezuza.Infrastructure.Data.Repositories
 {
-    internal class UsuarioRepository
+    public class UsuarioRepository : BaseRepository<Usuario>, IUsuarioRepository
     {
+        private readonly AgendaDbContext _context;
+
+        public UsuarioRepository(AgendaDbContext context) : base(context)
+        {
+            _context = context;
+        }
+
+        public async Task<Usuario?> ObterPorIdAsync(int id)
+            => await _context.Usuarios.FindAsync(id);
+
+        public async Task<Usuario?> ObterPorEmailAsync(string email)
+            => await _context.Usuarios.FirstOrDefaultAsync(u => u.Email == email);
     }
 }

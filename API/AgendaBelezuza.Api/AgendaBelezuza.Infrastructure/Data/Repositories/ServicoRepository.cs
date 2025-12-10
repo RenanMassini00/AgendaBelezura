@@ -1,12 +1,24 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using AgendaBelezuza.Application.Interfaces.Repositories;
+using AgendaBelezuza.Domain.Entities;
+using Microsoft.EntityFrameworkCore;
 
 namespace AgendaBelezuza.Infrastructure.Data.Repositories
 {
-    internal class ServicoRepository
+    public class ServicoRepository : BaseRepository<Servico>, IServicoRepository
     {
+        private readonly AgendaDbContext _context;
+
+        public ServicoRepository(AgendaDbContext context) : base(context)
+        {
+            _context = context;
+        }
+
+        public async Task<Servico?> ObterPorIdAsync(int id)
+            => await _context.Servicos.FindAsync(id);
+
+        public async Task<IEnumerable<Servico>> ListarPorProfissionalAsync(int profissionalId)
+            => await _context.Servicos
+                    .Where(s => s.ProfissionalId == profissionalId)
+                    .ToListAsync();
     }
 }
