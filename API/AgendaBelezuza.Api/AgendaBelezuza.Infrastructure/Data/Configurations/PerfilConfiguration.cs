@@ -1,12 +1,20 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using AgendaBelezuza.Domain.Entities;
+using Microsoft.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore.Metadata.Builders;
 
 namespace AgendaBelezuza.Infrastructure.Data.Configurations
 {
-    internal class PerfilConfiguration
+    public class PerfilConfiguration : IEntityTypeConfiguration<Perfil>
     {
+        public void Configure(EntityTypeBuilder<Perfil> builder)
+        {
+            builder.ToTable("Perfis");
+
+            builder.HasKey(x => x.Id);
+
+            builder.Property(x => x.Nome)
+                .HasMaxLength(100)
+                .IsRequired();
+        }
     }
 }

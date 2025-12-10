@@ -1,12 +1,33 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using AgendaBelezuza.Domain.Entities;
+using Microsoft.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore.Metadata.Builders;
 
 namespace AgendaBelezuza.Infrastructure.Data.Configurations
 {
-    internal class ProfissionalConfiguration
+    public class ProfissionalConfiguration : IEntityTypeConfiguration<Profissional>
     {
+        public void Configure(EntityTypeBuilder<Profissional> builder)
+        {
+            builder.ToTable("Profissionais");
+
+            builder.HasKey(x => x.Id);
+
+            builder.Property(x => x.NomePublico)
+                .HasMaxLength(150)
+                .IsRequired();
+
+            builder.Property(x => x.Telefone)
+                .HasMaxLength(20);
+
+            builder.Property(x => x.Documento)
+                .HasMaxLength(20);
+
+            builder.Property(x => x.Descricao)
+                .HasMaxLength(500);
+
+            builder.HasOne(x => x.Usuario)
+                   .WithMany()
+                   .HasForeignKey(x => x.UsuarioId);
+        }
     }
 }
