@@ -1,5 +1,4 @@
 ﻿using AgendaBelezuza.Application.DTOs.Profissionais;
-using AgendaBelezuza.Application.Interfaces.Repositories;
 using AgendaBelezuza.Application.Repositories;
 using AgendaBelezuza.Domain.Entities;
 using AgendaBelezuza.Domain.Exceptions;

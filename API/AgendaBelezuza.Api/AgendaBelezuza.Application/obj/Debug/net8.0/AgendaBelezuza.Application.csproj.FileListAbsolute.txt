@@ -1,0 +1,16 @@
+C:\Users\massini913471\source\repos\AgendaBelezura\API\AgendaBelezuza.Api\AgendaBelezuza.Application\obj\Debug\net8.0\AgendaBelezuza.Application.csproj.AssemblyReference.cache
+C:\Users\massini913471\source\repos\AgendaBelezura\API\AgendaBelezuza.Api\AgendaBelezuza.Application\obj\Debug\net8.0\AgendaBelezuza.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\massini913471\source\repos\AgendaBelezura\API\AgendaBelezuza.Api\AgendaBelezuza.Application\obj\Debug\net8.0\AgendaBelezuza.Application.AssemblyInfoInputs.cache
+C:\Users\massini913471\source\repos\AgendaBelezura\API\AgendaBelezuza.Api\AgendaBelezuza.Application\obj\Debug\net8.0\AgendaBelezuza.Application.AssemblyInfo.cs
+C:\Users\massini913471\source\repos\AgendaBelezura\API\AgendaBelezuza.Api\AgendaBelezuza.Application\obj\Debug\net8.0\AgendaBelezuza.Application.csproj.CoreCompileInputs.cache
+C:\Users\massini913471\source\repos\AgendaBelezura\API\AgendaBelezuza.Api\AgendaBelezuza.Application\obj\Debug\net8.0\AgendaBelezuza.Application.sourcelink.json
+C:\Users\massini913471\source\repos\AgendaBelezura\API\AgendaBelezuza.Api\AgendaBelezuza.Application\bin\Debug\net8.0\AgendaBelezuza.Application.deps.json
+C:\Users\massini913471\source\repos\AgendaBelezura\API\AgendaBelezuza.Api\AgendaBelezuza.Application\bin\Debug\net8.0\AgendaBelezuza.Application.dll
+C:\Users\massini913471\source\repos\AgendaBelezura\API\AgendaBelezuza.Api\AgendaBelezuza.Application\bin\Debug\net8.0\AgendaBelezuza.Application.pdb
+C:\Users\massini913471\source\repos\AgendaBelezura\API\AgendaBelezuza.Api\AgendaBelezuza.Application\bin\Debug\net8.0\AgendaBelezuza.Domain.dll
+C:\Users\massini913471\source\repos\AgendaBelezura\API\AgendaBelezuza.Api\AgendaBelezuza.Application\bin\Debug\net8.0\AgendaBelezuza.Domain.pdb
+C:\Users\massini913471\source\repos\AgendaBelezura\API\AgendaBelezuza.Api\AgendaBelezuza.Application\obj\Debug\net8.0\AgendaBe.EA10B0A5.Up2Date
+C:\Users\massini913471\source\repos\AgendaBelezura\API\AgendaBelezuza.Api\AgendaBelezuza.Application\obj\Debug\net8.0\AgendaBelezuza.Application.dll
+C:\Users\massini913471\source\repos\AgendaBelezura\API\AgendaBelezuza.Api\AgendaBelezuza.Application\obj\Debug\net8.0\refint\AgendaBelezuza.Application.dll
+C:\Users\massini913471\source\repos\AgendaBelezura\API\AgendaBelezuza.Api\AgendaBelezuza.Application\obj\Debug\net8.0\AgendaBelezuza.Application.pdb
+C:\Users\massini913471\source\repos\AgendaBelezura\API\AgendaBelezuza.Api\AgendaBelezuza.Application\obj\Debug\net8.0\ref\AgendaBelezuza.Application.dll

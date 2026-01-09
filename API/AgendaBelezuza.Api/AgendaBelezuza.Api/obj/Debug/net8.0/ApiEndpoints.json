@@ -1,0 +1,82 @@
+[
+  {
+    "ContainingType": "AgendaBelezuza.Api.Controllers.AgendamentosController",
+    "Method": "Criar",
+    "RelativePath": "api/Agendamentos",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "AgendaBelezuza.Application.DTOs.Agendamentos.CriarAgendamentoRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AgendaBelezuza.Api.Controllers.ClientesController",
+    "Method": "Criar",
+    "RelativePath": "api/Clientes",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "AgendaBelezuza.Application.DTOs.Clientes.CriarClienteRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AgendaBelezuza.Api.Controllers.ProfissionaisController",
+    "Method": "Criar",
+    "RelativePath": "api/Profissionais",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "AgendaBelezuza.Application.DTOs.Profissionais.CriarProfissionalRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AgendaBelezuza.Api.Controllers.ServicosController",
+    "Method": "Criar",
+    "RelativePath": "api/Servicos",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "AgendaBelezuza.Application.DTOs.Servicos.CriarServicoRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AgendaBelezuza.Api.Controllers.UsuariosController",
+    "Method": "Criar",
+    "RelativePath": "api/Usuarios",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "AgendaBelezuza.Application.DTOs.Usuarios.CriarUsuarioRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

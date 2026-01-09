@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AgendaBelezuza.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+27f5633765b2631bf6f6734bb1fe95cc71d8f5c7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dbaded0dab0e8a17d644820cd91dea7ab1926383")]
 [assembly: System.Reflection.AssemblyProductAttribute("AgendaBelezuza.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AgendaBelezuza.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

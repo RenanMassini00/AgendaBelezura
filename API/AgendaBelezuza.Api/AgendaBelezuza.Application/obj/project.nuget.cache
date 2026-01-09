@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "WiTAx6+d1jY=",
+  "dgSpecHash": "Yb6StdNnLV8=",
   "success": true,
   "projectFilePath": "C:\\Users\\massini913471\\source\\repos\\AgendaBelezura\\API\\AgendaBelezuza.Api\\AgendaBelezuza.Application\\AgendaBelezuza.Application.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\massini913471\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512",
+    "C:\\Users\\massini913471\\.nuget\\packages\\portable.bouncycastle\\1.9.0\\portable.bouncycastle.1.9.0.nupkg.sha512",
     "C:\\Users\\massini913471\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.22\\microsoft.windowsdesktop.app.ref.8.0.22.nupkg.sha512",
     "C:\\Users\\massini913471\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.22\\microsoft.netcore.app.ref.8.0.22.nupkg.sha512",
     "C:\\Users\\massini913471\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.22\\microsoft.aspnetcore.app.ref.8.0.22.nupkg.sha512"
