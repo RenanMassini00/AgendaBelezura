@@ -1,4 +1,5 @@
-﻿using AgendaBelezuza.Domain.Entities;
+﻿using AgendaBelezuza.Application.Repositories;
+using AgendaBelezuza.Domain.Entities;
 using Microsoft.EntityFrameworkCore;
 
 namespace AgendaBelezuza.Infrastructure.Data.Repositories
@@ -24,5 +25,10 @@ namespace AgendaBelezuza.Infrastructure.Data.Repositories
 
         public async Task<bool> ExisteUsuarioVinculadoAsync(int usuarioId)
             => await _context.Profissionais.AnyAsync(p => p.UsuarioId == usuarioId);
+        public async Task AdicionarAsync(Profissional profissional)
+        => await AddAsync(profissional);
+
+        public async Task AtualizarAsync(Profissional profissional)
+            => await UpdateAsync(profissional);
     }
 }

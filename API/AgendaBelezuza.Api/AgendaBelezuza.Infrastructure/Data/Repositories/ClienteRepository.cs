@@ -1,4 +1,5 @@
-﻿using AgendaBelezuza.Domain.Entities;
+﻿using AgendaBelezuza.Application.Repositories;
+using AgendaBelezuza.Domain.Entities;
 using Microsoft.EntityFrameworkCore;
 
 namespace AgendaBelezuza.Infrastructure.Data.Repositories
@@ -17,5 +18,10 @@ namespace AgendaBelezuza.Infrastructure.Data.Repositories
 
         public async Task<IEnumerable<Cliente>> ListarAsync()
             => await _context.Clientes.ToListAsync();
+        public async Task AdicionarAsync(Cliente cliente)
+        => await AddAsync(cliente);
+
+        public async Task AtualizarAsync(Cliente cliente)
+            => await UpdateAsync(cliente);
     }
 }

@@ -1,9 +1,11 @@
-﻿using AgendaBelezuza.Domain.Entities;
+﻿using AgendaBelezuza.Application.Repositories;
+using AgendaBelezuza.Domain.Entities;
 using Microsoft.EntityFrameworkCore;
 
 namespace AgendaBelezuza.Infrastructure.Data.Repositories
 {
-    public class UsuarioRepository : BaseRepository<Usuario>, IUsuarioRepository
+    public class UsuarioRepository
+    : BaseRepository<Usuario>, IUsuarioRepository
     {
         private readonly AgendaDbContext _context;
 
@@ -17,5 +19,11 @@ namespace AgendaBelezuza.Infrastructure.Data.Repositories
 
         public async Task<Usuario?> ObterPorEmailAsync(string email)
             => await _context.Usuarios.FirstOrDefaultAsync(u => u.Email == email);
+
+        public async Task AdicionarAsync(Usuario usuario)
+            => await AddAsync(usuario);
+
+        public async Task AtualizarAsync(Usuario usuario)
+            => await UpdateAsync(usuario);
     }
 }

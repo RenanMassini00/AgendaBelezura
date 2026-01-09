@@ -1,4 +1,5 @@
-﻿using AgendaBelezuza.Domain.Entities;
+﻿using AgendaBelezuza.Application.Repositories;
+using AgendaBelezuza.Domain.Entities;
 using Microsoft.EntityFrameworkCore;
 
 namespace AgendaBelezuza.Infrastructure.Data.Repositories
@@ -19,5 +20,10 @@ namespace AgendaBelezuza.Infrastructure.Data.Repositories
                             inicio < b.DataHoraFim &&
                             b.Ativo)
                 .ToListAsync();
+        public async Task AdicionarAsync(BloqueioAgenda bloqueioAgenda)
+        => await AddAsync(bloqueioAgenda);
+
+        public async Task AtualizarAsync(BloqueioAgenda bloqueioAgenda)
+            => await UpdateAsync(bloqueioAgenda);
     }
 }

@@ -1,10 +1,7 @@
-﻿using AgendaBelezuza.Domain.Entities;
+﻿using AgendaBelezuza.Application.Repositories;
+using AgendaBelezuza.Domain.Entities;
 using Microsoft.EntityFrameworkCore;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+
 
 namespace AgendaBelezuza.Infrastructure.Data.Repositories
 {
@@ -39,5 +36,10 @@ namespace AgendaBelezuza.Infrastructure.Data.Repositories
                    inicio < a.DataFim &&
                    a.Status == "MARCADO"
                );
+        public async Task AdicionarAsync(Agendamento agendamento)
+        => await AddAsync(agendamento);
+
+        public async Task AtualizarAsync(Agendamento agendamento)
+            => await UpdateAsync(agendamento);
     }
 }

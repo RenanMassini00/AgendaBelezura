@@ -1,4 +1,5 @@
-﻿using AgendaBelezuza.Domain.Entities;
+﻿using AgendaBelezuza.Application.Repositories;
+using AgendaBelezuza.Domain.Entities;
 using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
@@ -21,5 +22,10 @@ namespace AgendaBelezuza.Infrastructure.Data.Repositories
             => await _context.HorariosFuncionamento
                 .Where(h => h.ProfissionalId == profissionalId)
                 .ToListAsync();
+        public async Task AdicionarAsync(HorarioFuncionamento horarioFuncionamento)
+        => await AddAsync(horarioFuncionamento);
+
+        public async Task AtualizarAsync(HorarioFuncionamento horarioFuncionamento)
+            => await UpdateAsync(horarioFuncionamento);
     }
 }

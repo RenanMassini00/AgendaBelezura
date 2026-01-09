@@ -10,7 +10,6 @@ namespace AgendaBelezuza.Infrastructure.Data
             : base(options)
         {
         }
-
         public DbSet<Usuario> Usuarios => Set<Usuario>();
         public DbSet<Perfil> Perfis => Set<Perfil>();
         public DbSet<UsuarioPerfil> UsuarioPerfis => Set<UsuarioPerfil>();
@@ -25,7 +24,6 @@ namespace AgendaBelezuza.Infrastructure.Data
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
-            // Aplica automaticamente todas as classes de mapeamento da pasta Configurations
             modelBuilder.ApplyConfigurationsFromAssembly(Assembly.GetExecutingAssembly());
 
             base.OnModelCreating(modelBuilder);

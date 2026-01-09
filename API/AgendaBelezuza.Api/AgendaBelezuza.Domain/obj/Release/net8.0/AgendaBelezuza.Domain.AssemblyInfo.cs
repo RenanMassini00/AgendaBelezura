@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AgendaBelezuza.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+435aa56c01a6a66871d1c78c7c810c1c443971e4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b2e5759761ca8d24e74e8d71a084c64d1b831c2d")]
 [assembly: System.Reflection.AssemblyProductAttribute("AgendaBelezuza.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AgendaBelezuza.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

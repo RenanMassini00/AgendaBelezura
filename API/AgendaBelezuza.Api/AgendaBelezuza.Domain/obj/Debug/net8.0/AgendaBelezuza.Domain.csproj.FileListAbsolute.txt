@@ -1,0 +1,12 @@
+C:\Users\massini913471\source\repos\AgendaBelezura\API\AgendaBelezuza.Api\AgendaBelezuza.Domain\bin\Debug\net8.0\AgendaBelezuza.Domain.deps.json
+C:\Users\massini913471\source\repos\AgendaBelezura\API\AgendaBelezuza.Api\AgendaBelezuza.Domain\bin\Debug\net8.0\AgendaBelezuza.Domain.dll
+C:\Users\massini913471\source\repos\AgendaBelezura\API\AgendaBelezuza.Api\AgendaBelezuza.Domain\bin\Debug\net8.0\AgendaBelezuza.Domain.pdb
+C:\Users\massini913471\source\repos\AgendaBelezura\API\AgendaBelezuza.Api\AgendaBelezuza.Domain\obj\Debug\net8.0\AgendaBelezuza.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\massini913471\source\repos\AgendaBelezura\API\AgendaBelezuza.Api\AgendaBelezuza.Domain\obj\Debug\net8.0\AgendaBelezuza.Domain.AssemblyInfoInputs.cache
+C:\Users\massini913471\source\repos\AgendaBelezura\API\AgendaBelezuza.Api\AgendaBelezuza.Domain\obj\Debug\net8.0\AgendaBelezuza.Domain.AssemblyInfo.cs
+C:\Users\massini913471\source\repos\AgendaBelezura\API\AgendaBelezuza.Api\AgendaBelezuza.Domain\obj\Debug\net8.0\AgendaBelezuza.Domain.csproj.CoreCompileInputs.cache
+C:\Users\massini913471\source\repos\AgendaBelezura\API\AgendaBelezuza.Api\AgendaBelezuza.Domain\obj\Debug\net8.0\AgendaBelezuza.Domain.sourcelink.json
+C:\Users\massini913471\source\repos\AgendaBelezura\API\AgendaBelezuza.Api\AgendaBelezuza.Domain\obj\Debug\net8.0\AgendaBelezuza.Domain.dll
+C:\Users\massini913471\source\repos\AgendaBelezura\API\AgendaBelezuza.Api\AgendaBelezuza.Domain\obj\Debug\net8.0\refint\AgendaBelezuza.Domain.dll
+C:\Users\massini913471\source\repos\AgendaBelezura\API\AgendaBelezuza.Api\AgendaBelezuza.Domain\obj\Debug\net8.0\AgendaBelezuza.Domain.pdb
+C:\Users\massini913471\source\repos\AgendaBelezura\API\AgendaBelezuza.Api\AgendaBelezuza.Domain\obj\Debug\net8.0\ref\AgendaBelezuza.Domain.dll

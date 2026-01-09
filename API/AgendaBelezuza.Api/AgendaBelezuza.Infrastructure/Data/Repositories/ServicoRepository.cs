@@ -1,4 +1,4 @@
-﻿using AgendaBelezuza.Application.Interfaces.Repositories;
+﻿using AgendaBelezuza.Application.Repositories;
 using AgendaBelezuza.Domain.Entities;
 using Microsoft.EntityFrameworkCore;
 
@@ -20,5 +20,10 @@ namespace AgendaBelezuza.Infrastructure.Data.Repositories
             => await _context.Servicos
                     .Where(s => s.ProfissionalId == profissionalId)
                     .ToListAsync();
+        public async Task AdicionarAsync(Servico servico)
+        => await AddAsync(servico);
+
+        public async Task AtualizarAsync(Servico servico)
+            => await UpdateAsync(servico);
     }
 }

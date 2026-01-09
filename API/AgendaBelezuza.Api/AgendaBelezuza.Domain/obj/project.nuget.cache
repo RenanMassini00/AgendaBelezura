@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "ZDhNyu32jGc=",
+  "dgSpecHash": "YmjoPuU7nsg=",
   "success": true,
   "projectFilePath": "C:\\Users\\massini913471\\source\\repos\\AgendaBelezura\\API\\AgendaBelezuza.Api\\AgendaBelezuza.Domain\\AgendaBelezuza.Domain.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\massini913471\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.22\\microsoft.windowsdesktop.app.ref.8.0.22.nupkg.sha512",
+    "C:\\Users\\massini913471\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.22\\microsoft.netcore.app.ref.8.0.22.nupkg.sha512",
+    "C:\\Users\\massini913471\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.22\\microsoft.aspnetcore.app.ref.8.0.22.nupkg.sha512"
+  ],
   "logs": []
 }
