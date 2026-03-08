@@ -1,6 +1,12 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\.github",
+    "\\API",
+    "\\API\\AgendaBelezuza.Api",
+    "\\API\\AgendaBelezuza.Api\\AgendaBelezuza.Api",
+    "\\API\\AgendaBelezuza.Api\\AgendaBelezuza.Api\\Controllers"
   ],
+  "SelectedNode": "\\API\\AgendaBelezuza.Api\\AgendaBelezuza.Api\\Controllers\\AgendamentosController.cs",
   "PreviewInSolutionExplorer": false
 }

@@ -1,0 +1,6 @@
+@TudoMortorApplication_HostAddress = http://localhost:5117
+
+GET {{TudoMortorApplication_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
